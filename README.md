@@ -4,9 +4,9 @@
            <img src="https://skillicons.dev/icons?i=js" /><br>
            Back-end Technologies:<br>
            <img src="https://skillicons.dev/icons?i=cs" />
+           <img src="https://skillicons.dev/icons?i=php" />
            <img src="https://skillicons.dev/icons?i=cpp" />
            <img src="https://skillicons.dev/icons?i=java" /><br>
-           <img src="https://skillicons.dev/icons?i=php" /><br>	
            I'm working with:<br>
            <img src="https://skillicons.dev/icons?i=github" />
            <img src="https://skillicons.dev/icons?i=gitlab" />
